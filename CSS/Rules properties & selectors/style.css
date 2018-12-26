@@ -1,0 +1,39 @@
+/*
+este es un ejemplo de referencia a a reglas, selectores y propiedades.
+un selector es el nombre que hace referencia a un elemento del DOC HTML
+y la propiedad su color o tamaño.
+*/
+
+
+body{
+    background-color: brown;
+    text-align: center;
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+
+}
+h1{
+    background-color: blue;
+    font-family: Georgia;
+    font-size: 25px;
+    color:greenyellow;
+    padding: 50px;
+}
+
+h2{
+    color: whitesmoke;
+    background-color: violet;
+    font-size: 18px;
+
+}
+img{
+    height: 250px;
+    size: 15px;
+}
+p{
+    background: pink;
+    font-family: Verdana;
+    color: green;
+    font-size: 22px;
+}
