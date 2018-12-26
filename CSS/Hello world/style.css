@@ -1,3 +1,6 @@
+/* 
+Ponemos estilo al parrafo p con color y estilo de litras
+*/
 p {
     color: blue;
     font-family: Helvetica;
