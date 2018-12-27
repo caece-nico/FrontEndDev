@@ -26,3 +26,17 @@ ul{
     color: black;
     font-size: 0.45em;
 }
+
+section {
+    background-color: lightcoral;
+}
+
+/*aplicamos selectores multiples*/
+h,p2,p3,p4{
+    background-color: red;
+    font-size: 15pt;
+}
+
+p2,p4{
+    text-decoration: underline;
+}
