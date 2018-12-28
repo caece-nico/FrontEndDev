@@ -1,0 +1,29 @@
+body {
+    padding: 7ch;
+    background-color:  #ffff99;
+ 
+}
+ 
+h1 {
+ border:5px green dashed;
+ font-family: Helvetica;
+ color: red;
+}
+ 
+ 
+h2 {
+ 
+}
+ 
+ol {
+ 
+}
+ 
+li {
+    border: 15px red solid;
+ 
+}
+ 
+p {
+ 
+}
